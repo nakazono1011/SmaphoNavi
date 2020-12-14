@@ -24,7 +24,7 @@ https://shindan-console.vercel.app/
 * EC2インスタンス上でcronでPythonスクレイピングプログラムをスケジュール実行しRDS（MySQL）へデータ集積
 * フロントエンドはReact.jsで開発
 
-![image](https://user-images.githubusercontent.com/66734196/102051331-c08c5100-3e27-11eb-8f5d-e84bc60647ed.png)
+![アーキテクチャー](https://user-images.githubusercontent.com/66734196/102052767-efa3c200-3e29-11eb-8da9-b5eaa30b3606.png)
 
 ### 開発環境
 
@@ -42,6 +42,8 @@ https://shindan-console.vercel.app/
 
 ### 今後の拡張予定
 * 機械学習による自動査定ロジックの追加 ★実装中 12月中リリース予定
+* Reduxを用いたリファクタリング ★実装中 12月中リリース予定
+
 * 検索項目の追加（金額、容量、SIMロック状態など）
 * 昇順・降順の選択
 * Amazon Forecastを用いた価格推移の未来予測
