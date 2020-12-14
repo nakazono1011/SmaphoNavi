@@ -1,11 +1,11 @@
-# スマホナビ
+# ![スマホナビ](https://shindan-console.vercel.app/)
 
 ### 概要
 日本のフリマ市場で取引が行われているスマホの相場把握・比較・検索・自動査定が行える嬉しいサイトです。  
 スマホを「高く売りたい！」または「安く買いたい！」人々にとって価値の高い情報を提供します。  
 
 Vercelでサイト公開しています。**百聞は一見に如かず！** ぜひ一度ご覧ください。  
-smaphonavi-p333rtvyv.vercel.app
+https://shindan-console.vercel.app/
 
 * **スマホ機種別状態別にグラフ表示されます**
 ![image](https://user-images.githubusercontent.com/66734196/102046011-be24f980-3e1d-11eb-9b87-1be24ca28410.png)
