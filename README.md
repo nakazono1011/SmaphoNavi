@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# スマホナビ
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 概要
+日本のフリマ市場で取引が行われているスマホの相場把握・比較・検索・自動査定が行える嬉しいサイトです。
+スマホを「高く売りたい！」または「安く買いたい！」人々にとって価値の高い情報を提供します。
 
-## Available Scripts
+Vercelでサイト公開しています。百聞は一見に如かず！ ぜひ一度ご覧ください。
+https://shindan-console.vercel.app/
 
-In the project directory, you can run:
+## 目的
+2020年3月にSIerを退職して以降にインプットした知識・技術をフル動員して「何か形にできないか」と考え作成したプロダクトです。
+ただ勉強した成果を形にして自己満足するのではなく、使い手にとって嬉しい・使いやすいプロダクト制作を心掛けました。
+このレポジトリを訪れた方へ、忌憚ないご意見をお待ちしております。
 
-### `npm start`
+## 開発環境
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+フロントエンド
+* React v17.0.1
+* react-chartjs-2 v2.11.1
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+バックエンド
+* python3.8
 
-### `npm test`
+インフラ
+* AWS lambda
+* AWS API Gateway
+* RDS（MySQL)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ライセンス
+MIT
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
