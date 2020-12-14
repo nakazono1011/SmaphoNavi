@@ -36,8 +36,10 @@ https://shindan-console.vercel.app/
 * python3.8
 
 インフラ
+* AWS EC2
 * AWS lambda
 * AWS API Gateway
+* AWS CloudWatch
 * RDS（MySQL)
 
 ## 今後の拡張予定
