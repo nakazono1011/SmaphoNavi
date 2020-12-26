@@ -7,7 +7,7 @@
 Vercelでサイト公開しています。**百聞は一見に如かず！** ぜひ一度ご覧ください。  
 https://smaphonavi-p333rtvyv.vercel.app/
 
-アプリを作成するまでの過程をQiitaで記事書きました。
+アプリを作成するまでの過程をQiitaで記事書きました。  
 https://qiita.com/knakazono10111/items/660c0311cccadb21bf92
 
 * **スマホ機種別状態別にグラフ表示されます**
