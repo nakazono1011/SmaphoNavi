@@ -5,7 +5,7 @@
 スマホを「高く売りたい！」または「安く買いたい！」人々にとって価値の高い情報を提供します。  
 
 Vercelでサイト公開しています。**百聞は一見に如かず！** ぜひ一度ご覧ください。  
-https://smaphonavi-p333rtvyv.vercel.app/
+https://shindan-page.vercel.app/
 
 アプリを作成するまでの過程をQiitaで記事書きました。  
 https://qiita.com/knakazono10111/items/660c0311cccadb21bf92
